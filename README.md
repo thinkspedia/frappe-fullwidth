@@ -16,8 +16,8 @@ A Frappe Framework extension that transforms your ERP interface to utilize 100% 
 
 ## Installation
 ```bash
-bench get-app full_width https://github.com/yourusername/frappe-fullwidth
-bench --site [site-name] install-app full_width
+bench get-app https://github.com/thinkspedia/frappe-fullwidth
+bench --site [site-name] install-app frappe_fullwidth
 
 #### License
 
